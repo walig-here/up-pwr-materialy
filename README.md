@@ -12,3 +12,8 @@ Repozytorium zawiera materiały z wykładu oraz laboratorium z kursu Urządzenia
 
 ## Przydatne linki
 * Strona z instukcjami laboratoryjnymi: http://indyk.ict.pwr.wroc.pl/uperyf/?fbclid=IwAR0Wx90ZTZF2IjINjkv5fAs9Qdo344InNSJWDBoOXvUl4jyLOJE84moOlhs
+
+Dyski:
+* Dysk ITE 2020: https://drive.google.com/drive/folders/1gCxjFkxOs_vh1qsa5ip8bNNeodmLqFh1 
+* Dysk ITE 2019: https://drive.google.com/drive/folders/1SUH4UMdg325_DW7rgAGC9OFAFLs-5Hov
+* Dysk ITE 2018: https://drive.google.com/drive/folders/1M4lILN7Okf9B74xvUbdtJvP9scExQrYD
