@@ -1,0 +1,10 @@
+C:\Users\lab\source\repos\ModemModem\ModemModem\bin\Debug\ModemModem.exe.config
+C:\Users\lab\source\repos\ModemModem\ModemModem\bin\Debug\ModemModem.exe
+C:\Users\lab\source\repos\ModemModem\ModemModem\bin\Debug\ModemModem.pdb
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.Form1.resources
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.Properties.Resources.resources
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.exe
+C:\Users\lab\source\repos\ModemModem\ModemModem\obj\Debug\ModemModem.pdb
