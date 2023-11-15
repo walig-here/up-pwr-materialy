@@ -1,0 +1,14 @@
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\bin\Debug\Bluetooth.exe
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.csproj.AssemblyReference.cache
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.csproj.SuggestedBindingRedirects.cache
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.cache
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.csproj.CoreCompileInputs.cache
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.csproj.CopyComplete
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.exe
+D:\UP\up-pwr-materialy\laby\lab-2\rozwiązanie-wzorcowe-2\Bluetooth_od kogoś\Bluetooth\obj\Debug\Bluetooth.pdb

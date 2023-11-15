@@ -1,0 +1,2 @@
+Poradnik NET + Bluetooth
+https://www.c-sharpcorner.com/article/transferring-data-via-bluetooth-in-net/
