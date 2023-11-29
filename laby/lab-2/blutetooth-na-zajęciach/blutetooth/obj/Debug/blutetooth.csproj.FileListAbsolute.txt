@@ -1,0 +1,12 @@
+C:\Users\lab\Desktop\blutetooth\blutetooth\bin\Debug\blutetooth.exe.config
+C:\Users\lab\Desktop\blutetooth\blutetooth\bin\Debug\blutetooth.exe
+C:\Users\lab\Desktop\blutetooth\blutetooth\bin\Debug\blutetooth.pdb
+C:\Users\lab\Desktop\blutetooth\blutetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.Form1.resources
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.Properties.Resources.resources
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.csproj.CopyComplete
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.exe
+C:\Users\lab\Desktop\blutetooth\blutetooth\obj\Debug\blutetooth.pdb
