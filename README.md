@@ -17,3 +17,4 @@ Dyski:
 * Dysk ITE 2020: https://drive.google.com/drive/folders/1gCxjFkxOs_vh1qsa5ip8bNNeodmLqFh1 
 * Dysk ITE 2019: https://drive.google.com/drive/folders/1SUH4UMdg325_DW7rgAGC9OFAFLs-5Hov
 * Dysk ITE 2018: https://drive.google.com/drive/folders/1M4lILN7Okf9B74xvUbdtJvP9scExQrYD
+* Materiały 1: https://vindicator.pl/uczelnie/politechnika-wroclawska/urzadzenia-peryferyjne
