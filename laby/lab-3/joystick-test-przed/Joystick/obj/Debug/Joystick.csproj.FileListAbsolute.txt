@@ -1,0 +1,17 @@
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\Joystick.exe.config
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\Joystick.exe
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\Joystick.pdb
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.csproj.AssemblyReference.cache
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.csproj.SuggestedBindingRedirects.cache
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\JoystickApp.Form1.resources
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.Properties.Resources.resources
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.csproj.GenerateResource.cache
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.csproj.CoreCompileInputs.cache
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.exe
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.pdb
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\SharpDX.DirectInput.dll
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\SharpDX.dll
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\SharpDX.pdb
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\SharpDX.DirectInput.pdb
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\bin\Debug\SharpDX.DirectInput.xml
+D:\UP\up-pwr-materialy\laby\lab-3\joystick-test-przed\Joystick\obj\Debug\Joystick.csproj.CopyComplete
