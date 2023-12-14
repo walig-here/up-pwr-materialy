@@ -1,0 +1,17 @@
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\bin\Debug\net6.0-windows\lab4-gps.exe
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\bin\Debug\net6.0-windows\lab4-gps.deps.json
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\bin\Debug\net6.0-windows\lab4-gps.runtimeconfig.json
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\bin\Debug\net6.0-windows\lab4-gps.dll
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\bin\Debug\net6.0-windows\lab4-gps.pdb
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.csproj.AssemblyReference.cache
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4_gps.Form1.resources
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.csproj.GenerateResource.cache
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.AssemblyInfoInputs.cache
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.AssemblyInfo.cs
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.csproj.CoreCompileInputs.cache
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.dll
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\refint\lab4-gps.dll
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.pdb
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\lab4-gps.genruntimeconfig.cache
+D:\UP\up-pwr-materialy\laby\lab-4\przed-zajeciami\lab4-gps\obj\Debug\net6.0-windows\ref\lab4-gps.dll
