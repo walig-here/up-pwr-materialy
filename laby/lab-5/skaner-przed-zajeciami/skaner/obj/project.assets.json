@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "WiaDotNet/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/WiaDotNet.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net40/WiaDotNet.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiaDotNet/1.0.0": {
+      "sha512": "OCR8RmV49cYBhY/eSUKQ9Sl1cGVGWw25+AEmuCfMyaJt9ynWNsbz9YQPTzUbiaW8athqLw9smEILvQR2DcDWOw==",
+      "type": "package",
+      "path": "wiadotnet/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Interop.WIA.dll",
+        "lib/net35/WiaDotNet-35.dll",
+        "lib/net35/WiaDotNet-35.pdb",
+        "lib/net40/WiaDotNet.dll",
+        "lib/net40/WiaDotNet.pdb",
+        "wiadotnet.1.0.0.nupkg.sha512",
+        "wiadotnet.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "WiaDotNet >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dawid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\UP\\up-pwr-materialy\\laby\\lab-5\\skaner-przed-zajeciami\\skaner\\skaner.csproj",
+      "projectName": "skaner",
+      "projectPath": "D:\\UP\\up-pwr-materialy\\laby\\lab-5\\skaner-przed-zajeciami\\skaner\\skaner.csproj",
+      "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
+      "outputPath": "D:\\UP\\up-pwr-materialy\\laby\\lab-5\\skaner-przed-zajeciami\\skaner\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "WiaDotNet": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „WiaDotNet 1.0.0” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "WiaDotNet",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

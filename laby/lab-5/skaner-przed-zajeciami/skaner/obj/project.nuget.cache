@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7n1l40vCquVGhzj8YE9wny4UK0vd1bYwelUPdfIINMt9H2RAObIMEMizwnJ3dlb67wTETYKYuh0+kLqehuYww==",
+  "success": true,
+  "projectFilePath": "D:\\UP\\up-pwr-materialy\\laby\\lab-5\\skaner-przed-zajeciami\\skaner\\skaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dawid\\.nuget\\packages\\wiadotnet\\1.0.0\\wiadotnet.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „WiaDotNet 1.0.0” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "WiaDotNet",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

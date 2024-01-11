@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "skaner/1.0.0": {
+        "dependencies": {
+          "WiaDotNet": "1.0.0",
+          "Interop.WIA": "1.0.0.0"
+        },
+        "runtime": {
+          "skaner.dll": {}
+        }
+      },
+      "WiaDotNet/1.0.0": {
+        "runtime": {
+          "lib/net40/WiaDotNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2011.920.1426"
+          }
+        }
+      },
+      "Interop.WIA/1.0.0.0": {
+        "runtime": {
+          "Interop.WIA.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "skaner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WiaDotNet/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OCR8RmV49cYBhY/eSUKQ9Sl1cGVGWw25+AEmuCfMyaJt9ynWNsbz9YQPTzUbiaW8athqLw9smEILvQR2DcDWOw==",
+      "path": "wiadotnet/1.0.0",
+      "hashPath": "wiadotnet.1.0.0.nupkg.sha512"
+    },
+    "Interop.WIA/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
