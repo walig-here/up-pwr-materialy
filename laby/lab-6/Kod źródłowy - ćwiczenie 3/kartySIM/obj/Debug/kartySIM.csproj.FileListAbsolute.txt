@@ -1,0 +1,14 @@
+C:\Users\lab\source\repos\kartySIM\kartySIM\bin\Debug\kartySIM.exe.config
+C:\Users\lab\source\repos\kartySIM\kartySIM\bin\Debug\kartySIM.exe
+C:\Users\lab\source\repos\kartySIM\kartySIM\bin\Debug\kartySIM.pdb
+C:\Users\lab\source\repos\kartySIM\kartySIM\bin\Debug\PCSC.dll
+C:\Users\lab\source\repos\kartySIM\kartySIM\bin\Debug\PCSC.pdb
+C:\Users\lab\source\repos\kartySIM\kartySIM\bin\Debug\PCSC.xml
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.Form1.resources
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.Properties.Resources.resources
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.csproj.CopyComplete
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.exe
+C:\Users\lab\source\repos\kartySIM\kartySIM\obj\Debug\kartySIM.pdb
