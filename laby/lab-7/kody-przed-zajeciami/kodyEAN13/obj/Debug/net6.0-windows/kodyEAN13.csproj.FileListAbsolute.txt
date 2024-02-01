@@ -1,0 +1,17 @@
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\bin\Debug\net6.0-windows\kodyEAN13.exe
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\bin\Debug\net6.0-windows\kodyEAN13.deps.json
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\bin\Debug\net6.0-windows\kodyEAN13.runtimeconfig.json
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\bin\Debug\net6.0-windows\kodyEAN13.dll
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\bin\Debug\net6.0-windows\kodyEAN13.pdb
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.csproj.AssemblyReference.cache
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.Form1.resources
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.csproj.GenerateResource.cache
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.AssemblyInfoInputs.cache
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.AssemblyInfo.cs
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.csproj.CoreCompileInputs.cache
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.dll
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\refint\kodyEAN13.dll
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.pdb
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\kodyEAN13.genruntimeconfig.cache
+D:\UP\up-pwr-materialy\laby\lab-7\kody-przed-zajeciami\kodyEAN13\obj\Debug\net6.0-windows\ref\kodyEAN13.dll
